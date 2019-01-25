@@ -8,3 +8,5 @@ npm init
 npm install electron --save-dev --verbose
 
 npm start
+
+Learned from: https://www.youtube.com/watch?v=sJFuMKPfpfs
