@@ -1,0 +1,14 @@
+{
+  "name": "electron-hello-app",
+  "version": "1.0.0",
+  "description": "test electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "raja csp",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.2"
+  }
+}
